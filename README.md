@@ -1,6 +1,16 @@
-# Swimmer Posture Analysis with MediaPipe
+# Swimmer Posture Analysis with MediaPipe & YOLOv8-Pose
 
-This project uses MediaPipe Pose to analyze swimmer posture from video footage, providing real-time feedback on body alignment, arm angles, leg position, and more.
+This project uses advanced pose estimation models (MediaPipe and YOLOv8-Pose) to analyze swimmer posture from video footage, providing real-time feedback on body alignment, arm angles, leg position, and more.
+
+## 📹 Sample Videos
+
+**[View Example Analysis Videos on Google Drive](https://drive.google.com/drive/folders/1q0cstVtLpBs4J-nSWc-YJq46v4XfciRK?usp=sharing)**
+
+Sample videos include:
+- Input swimming video
+- MediaPipe analysis output
+- YOLOv8x-Pose analysis output (highest accuracy)
+- Comparison of different model outputs
 
 ## Features
 
